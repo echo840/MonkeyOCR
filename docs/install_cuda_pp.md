@@ -24,7 +24,7 @@ pip install langchain==0.3.26
 
 ## Step 2. Install Inference Backend
 
-> **Note:** Based on our internal test, inference speed ranking is: **[LMDeploy](https://github.com/Yuliang-Liu/MonkeyOCR/blob/main/docs/install_cuda.md#using-lmdeploy-as-the-inference-backend-optional) ≥ [vLLM](https://github.com/Yuliang-Liu/MonkeyOCR/blob/main/docs/install_cuda.md#using-vllm-as-the-inference-backend-optional) >>> [transformers](https://github.com/Yuliang-Liu/MonkeyOCR/blob/main/docs/install_cuda.md#using-transformers-as-the-inference-backend-optional)**
+> **Note:** Based on our internal test, inference speed ranking is: **[LMDeploy](docs/install_cuda.md#using-lmdeploy-as-the-inference-backend-optional) ≥ [vLLM](docs/install_cuda.md#using-vllm-as-the-inference-backend-optional) >>> [transformers](docs/install_cuda.md#using-transformers-as-the-inference-backend-optional)**
 
 ### Using **LMDeploy** as the Inference Backend (Recommend)
 > **Supporting CUDA 12.6/11.8**
