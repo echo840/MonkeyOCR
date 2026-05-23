@@ -1,7 +1,7 @@
 # Quick Start
 ## Locally Install
 ### 1. Install MonkeyOCR
-See the [installation guide](https://github.com/Yuliang-Liu/MonkeyOCR/blob/main/docs/install_cuda_pp.md#install-with-cuda-support) to set up your environment.
+See the [installation guide](docs/install_cuda_pp.md#install-with-cuda-support) to set up your environment.
 ### 2. Download Model Weights
 Download our model from Huggingface.
 ```python
